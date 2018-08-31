@@ -86,6 +86,11 @@ body {font-family: arial;
 	right: -12px;
 	top: -1px;
 }
+.container {
+	width: 960px;
+	margin:60px auto;
+	
+}
 h1 {
     font-size: 30px;
     font-weight: bold;
@@ -95,12 +100,6 @@ h1 {
     text-transform: uppercase;
     color: #00af09;
     text-shadow: 1.5px 1.5px 0 #333, 0px 1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px 1.5px 0 #333, 1.5px -1.5px 0 #333, 0.7778174593px 0.7778174593px 0 #aaaaaa, 1.5556349186px 1.5556349186px 0 #aaaaaa, 2.3334523779px 2.3334523779px 0 #aaaaaa, 3.1112698372px 3.1112698372px 0 #aaaaaa, 3.8890872965px 3.8890872965px 0 #aaaaaa, 4.6669047558px 4.6669047558px 0 #aaaaaa, 5.4447222151px 5.4447222151px 0 #aaaaaa, 6.2225396744px 6.2225396744px 0 #aaaaaa, 7.0003571337px 7.0003571337px 0 #aaaaaa, 7.7781745931px 7.7781745931px 0 #aaaaaa;
-}
-.container {
-    width: 600px;
-    margin: auto;
-    padding: 20px;
-    position: relative;
 }
 
 .area-komputer {
@@ -132,7 +131,7 @@ h1 {
     position: absolute;
     left: 50%;
     margin-left: -105px;
-    top: 45%;
+    top: 25%;
     margin-top: -30px;
     background-color: white;
     border-radius: 30px;
@@ -149,8 +148,8 @@ h1 {
     border: 5px solid rgb(0, 184, 0);
     position: absolute;
     left: 48%;
-    margin-left: -35px;
-    top: 61%;
+    margin-left: -28px;
+    top: 32%;
     margin-top: -30px;
     background-color: white;
     border-radius: 30px;

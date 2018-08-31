@@ -1,3 +1,5 @@
+
+
 var pilihanComputer = Math.floor(Math.random() * 11);
 console.log(pilihanComputer)
 var pilihanPlayer = 7;
