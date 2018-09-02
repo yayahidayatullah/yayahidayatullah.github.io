@@ -112,10 +112,9 @@ body {font-family: arial;
 .header a:hover {color: #fbfbfb ;
 				background-color: green;}
 
-.hero {height: 400px;
-	background-image: url(makkah.png);
-	background-size: cover;
-	background-position: 0 -120px;}
+.hero {height: 450px;
+	background-image: url(img/a.png);
+	background-size: cover;}
 .hero {border-top: 10px solid lightgreen;
 	border-bottom: 10px solid lightskyblue}
 
